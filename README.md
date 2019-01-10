@@ -20,7 +20,7 @@ Follow the instructions to install [ios-webkit-debug-proxy](https://github.com/g
 
 #### Windows
 
-Install [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy#installation)  and [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice). On Windows you can use [scoop](http://scoop.sh/):
+Install [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy#installation)  and [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice). On Windows you can use [scoop](http://scoop.sh/) and [npm](https://www.npmjs.com/get-npm):
 
 ```
 scoop bucket add extras
